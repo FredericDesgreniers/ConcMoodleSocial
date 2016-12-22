@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.idea
+target/output.csv
+target
+output.csv
+*.iml
