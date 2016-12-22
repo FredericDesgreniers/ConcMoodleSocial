@@ -1,4 +1,4 @@
 # ConcMoodleSocial
-Goes through moodle names and makes a csv of each student and the corresponding courses.
+Concordia University Moodle student csv generator
 
-Everything is done client side, just run the jar and login to moodle. It will scan through the courses and make a csv with each student and each course section they share with you. 
+Scans all the courses on you moodle and generates a csv with student names and the cource sections they share with you. 
